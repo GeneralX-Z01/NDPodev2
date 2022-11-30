@@ -1,0 +1,26 @@
+C:\Users\omarg\source\repos\soru1_\soru1_\bin\Debug\netcoreapp3.1\soru1_.exe
+C:\Users\omarg\source\repos\soru1_\soru1_\bin\Debug\netcoreapp3.1\soru1_.deps.json
+C:\Users\omarg\source\repos\soru1_\soru1_\bin\Debug\netcoreapp3.1\soru1_.runtimeconfig.json
+C:\Users\omarg\source\repos\soru1_\soru1_\bin\Debug\netcoreapp3.1\soru1_.runtimeconfig.dev.json
+C:\Users\omarg\source\repos\soru1_\soru1_\bin\Debug\netcoreapp3.1\soru1_.dll
+C:\Users\omarg\source\repos\soru1_\soru1_\bin\Debug\netcoreapp3.1\soru1_.pdb
+C:\Users\omarg\source\repos\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.AssemblyInfoInputs.cache
+C:\Users\omarg\source\repos\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.AssemblyInfo.cs
+C:\Users\omarg\source\repos\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.csproj.CoreCompileInputs.cache
+C:\Users\omarg\source\repos\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.dll
+C:\Users\omarg\source\repos\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.pdb
+C:\Users\omarg\source\repos\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.genruntimeconfig.cache
+C:\Users\omarg\source\repos\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\bin\Debug\netcoreapp3.1\soru1_.exe
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\bin\Debug\netcoreapp3.1\soru1_.deps.json
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\bin\Debug\netcoreapp3.1\soru1_.runtimeconfig.json
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\bin\Debug\netcoreapp3.1\soru1_.runtimeconfig.dev.json
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\bin\Debug\netcoreapp3.1\soru1_.dll
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\bin\Debug\netcoreapp3.1\soru1_.pdb
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.AssemblyInfo.cs
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.dll
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.pdb
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru1_\soru1_\obj\Debug\netcoreapp3.1\soru1_.genruntimeconfig.cache

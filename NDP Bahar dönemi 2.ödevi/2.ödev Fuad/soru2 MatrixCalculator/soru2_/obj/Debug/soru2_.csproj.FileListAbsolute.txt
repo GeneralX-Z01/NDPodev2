@@ -1,0 +1,20 @@
+C:\Users\omarg\source\repos\soru2_\soru2_\bin\Debug\soru2_.exe.config
+C:\Users\omarg\source\repos\soru2_\soru2_\bin\Debug\soru2_.exe
+C:\Users\omarg\source\repos\soru2_\soru2_\bin\Debug\soru2_.pdb
+C:\Users\omarg\source\repos\soru2_\soru2_\obj\Debug\soru2_.csprojAssemblyReference.cache
+C:\Users\omarg\source\repos\soru2_\soru2_\obj\Debug\soru2_.Form1.resources
+C:\Users\omarg\source\repos\soru2_\soru2_\obj\Debug\soru2_.Properties.Resources.resources
+C:\Users\omarg\source\repos\soru2_\soru2_\obj\Debug\soru2_.csproj.GenerateResource.cache
+C:\Users\omarg\source\repos\soru2_\soru2_\obj\Debug\soru2_.csproj.CoreCompileInputs.cache
+C:\Users\omarg\source\repos\soru2_\soru2_\obj\Debug\soru2_.exe
+C:\Users\omarg\source\repos\soru2_\soru2_\obj\Debug\soru2_.pdb
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru2_\soru2_\bin\Debug\soru2_.exe.config
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru2_\soru2_\bin\Debug\soru2_.exe
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru2_\soru2_\bin\Debug\soru2_.pdb
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru2_\soru2_\obj\Debug\soru2_.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru2_\soru2_\obj\Debug\soru2_.Form1.resources
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru2_\soru2_\obj\Debug\soru2_.Properties.Resources.resources
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru2_\soru2_\obj\Debug\soru2_.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru2_\soru2_\obj\Debug\soru2_.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru2_\soru2_\obj\Debug\soru2_.exe
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (5)\soru2_\soru2_\obj\Debug\soru2_.pdb

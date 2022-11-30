@@ -1,0 +1,26 @@
+C:\Users\omarg\source\repos\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.csprojAssemblyReference.cache
+C:\Users\omarg\source\repos\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.AssemblyInfoInputs.cache
+C:\Users\omarg\source\repos\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.AssemblyInfo.cs
+C:\Users\omarg\source\repos\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.csproj.CoreCompileInputs.cache
+C:\Users\omarg\source\repos\odev__2\odev__2\bin\Debug\netcoreapp3.1\odev__2.exe
+C:\Users\omarg\source\repos\odev__2\odev__2\bin\Debug\netcoreapp3.1\odev__2.deps.json
+C:\Users\omarg\source\repos\odev__2\odev__2\bin\Debug\netcoreapp3.1\odev__2.runtimeconfig.json
+C:\Users\omarg\source\repos\odev__2\odev__2\bin\Debug\netcoreapp3.1\odev__2.runtimeconfig.dev.json
+C:\Users\omarg\source\repos\odev__2\odev__2\bin\Debug\netcoreapp3.1\odev__2.dll
+C:\Users\omarg\source\repos\odev__2\odev__2\bin\Debug\netcoreapp3.1\odev__2.pdb
+C:\Users\omarg\source\repos\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.dll
+C:\Users\omarg\source\repos\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.pdb
+C:\Users\omarg\source\repos\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.genruntimeconfig.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\bin\Debug\netcoreapp3.1\odev__2.exe
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\bin\Debug\netcoreapp3.1\odev__2.deps.json
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\bin\Debug\netcoreapp3.1\odev__2.runtimeconfig.json
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\bin\Debug\netcoreapp3.1\odev__2.runtimeconfig.dev.json
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\bin\Debug\netcoreapp3.1\odev__2.dll
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\bin\Debug\netcoreapp3.1\odev__2.pdb
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.AssemblyInfo.cs
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.dll
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.pdb
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev__2\odev__2\obj\Debug\netcoreapp3.1\odev__2.genruntimeconfig.cache

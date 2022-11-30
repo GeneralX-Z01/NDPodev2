@@ -1,0 +1,30 @@
+C:\Users\omarg\source\repos\odev2__matris\odev2__matris\bin\Debug\odev2__matris.exe.config
+C:\Users\omarg\source\repos\odev2__matris\odev2__matris\bin\Debug\odev2__matris.exe
+C:\Users\omarg\source\repos\odev2__matris\odev2__matris\bin\Debug\odev2__matris.pdb
+C:\Users\omarg\source\repos\odev2__matris\odev2__matris\obj\Debug\odev2__matris.csprojAssemblyReference.cache
+C:\Users\omarg\source\repos\odev2__matris\odev2__matris\obj\Debug\odev2__matris.Form1.resources
+C:\Users\omarg\source\repos\odev2__matris\odev2__matris\obj\Debug\odev2__matris.Properties.Resources.resources
+C:\Users\omarg\source\repos\odev2__matris\odev2__matris\obj\Debug\odev2__matris.csproj.GenerateResource.cache
+C:\Users\omarg\source\repos\odev2__matris\odev2__matris\obj\Debug\odev2__matris.csproj.CoreCompileInputs.cache
+C:\Users\omarg\source\repos\odev2__matris\odev2__matris\obj\Debug\odev2__matris.exe
+C:\Users\omarg\source\repos\odev2__matris\odev2__matris\obj\Debug\odev2__matris.pdb
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev2__matris\odev2__matris\bin\Debug\odev2__matris.exe.config
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev2__matris\odev2__matris\bin\Debug\odev2__matris.exe
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev2__matris\odev2__matris\bin\Debug\odev2__matris.pdb
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.Form1.resources
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.Properties.Resources.resources
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.exe
+C:\Users\user\Desktop\Yeni WinRAR ZIP archive (2)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.pdb
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 2.ödevi (Sevda usulü)\odev2__matris\odev2__matris\bin\Debug\odev2__matris.exe.config
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 2.ödevi (Sevda usulü)\odev2__matris\odev2__matris\bin\Debug\odev2__matris.exe
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 2.ödevi (Sevda usulü)\odev2__matris\odev2__matris\bin\Debug\odev2__matris.pdb
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 2.ödevi (Sevda usulü)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 2.ödevi (Sevda usulü)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.Form1.resources
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 2.ödevi (Sevda usulü)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.Properties.Resources.resources
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 2.ödevi (Sevda usulü)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 2.ödevi (Sevda usulü)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 2.ödevi (Sevda usulü)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.exe
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 2.ödevi (Sevda usulü)\odev2__matris\odev2__matris\obj\Debug\odev2__matris.pdb
